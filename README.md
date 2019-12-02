@@ -1,4 +1,5 @@
 # Colored Tabs Material-UI
+> Workaround for highligting background of Tab Component from [Material-UI](https://material-ui.com/components/tabs/)
 
 
 ![2019-12-01 122133](https://user-images.githubusercontent.com/26820006/69912077-ad356000-1435-11ea-914a-34cbbef29e33.png)
